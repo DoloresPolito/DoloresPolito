@@ -7,8 +7,23 @@ Full Stack Developer
 
 ✉️  You can contact me at dolores.polito@gmail.com
 
-Languages, libraries and tools
-React Node.js Express Sequelize JavaScript CSS3 HTML5 Redux 
+Skills
+Javascript
+HTML5
+React
+CSS3
+JQuery
+Sass
+Bootstrap
+Material UI
+Redux
+NodeJS
+Express
+PostgreSQL
+MetaMask
+Socials
+
+
 
 
 
